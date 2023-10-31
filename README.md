@@ -1,3 +1,3 @@
 # JavaScript Web Based Editor
 
-[!Editor](./jbook.png)
+![Editor](./jbook.png)
